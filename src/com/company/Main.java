@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello, world");
         System.out.println("Bye, World");
+        System.out.println("This is \"Andy's\" Computer");
+        System.out.println("I'm splitting\n this two line");
     }
 }
