@@ -8,12 +8,12 @@ public class RectangleArea {
         int length;
         int width;
         int area;
-        Scanner Overwatch = new Scanner(System.in);
+        Scanner overwatch = new Scanner(System.in);
 
         System.out.println("Please type the length of Rectangle");
-        length = Overwatch.nextInt();
+        length = overwatch.nextInt();
         System.out.println("Please type the width of Rectangle");
-        width = Overwatch.nextInt();
+        width = overwatch.nextInt();
         area = length*width;
         System.out.println("Area = "+(area));
 
